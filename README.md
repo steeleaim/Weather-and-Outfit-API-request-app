@@ -4,4 +4,4 @@
 About
 
 
-Python project using weatherapi to gather accurate weather data so the program can suggest sensible fashion choice
+Python project using OpenWeather API to gather accurate weather data so the program can suggest sensible fashion choice
