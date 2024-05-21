@@ -1,0 +1,15 @@
+Please see weather data for Doncaster, GB
+
+light rain (+3h)
+light rain (+3h)
+light rain (+3h)
+light rain (+3h)
+light rain (+3h)
+moderate rain (+3h)
+moderate rain (+3h)
+moderate rain (+3h)
+
+TODAY'S MEAN TEMPERATURE 
+13.895
+TODAY'S MAX TEMPERATURE 
+17
